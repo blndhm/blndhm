@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Bastian
 
-<!--
-**blndhm/blndhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring computer science student interested in:
 
-Here are some ideas to get you started:
+- Software engineering
+- Systems & performance
+- Algorithms & data structures
+- Quantitative computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+
+- Python
+- C++
+- Mathematics
+- Computer science fundamentals
+
+### Projects
+
+🚧 Currently building...
+
+### Links
+
+[LinkedIn] • [Portfolio]
