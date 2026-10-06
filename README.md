@@ -1,4 +1,4 @@
-# Hey, I'm Bastian
+# Hey, I'm Lindholm
 
 I'm an aspiring computer science student interested in:
 
@@ -12,12 +12,9 @@ I'm an aspiring computer science student interested in:
 - Python
 - C++
 - Mathematics
-- Computer science fundamentals
+- Computer science 
 
 ### Projects
 
 🚧 Currently building...
 
-### Links
-
-[LinkedIn] • [Portfolio]
